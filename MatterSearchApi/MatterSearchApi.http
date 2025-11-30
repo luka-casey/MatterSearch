@@ -1,0 +1,6 @@
+@MatterSearchApi_HostAddress = http://localhost:5237
+
+GET {{MatterSearchApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
